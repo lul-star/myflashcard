@@ -5,10 +5,9 @@
 ## Lab 1
 
 ### App Description
-`TODO://` An app that displays a question and an answer when user click's on question.
+An app that displays a question and an answer when user click's on question.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://github.com/lul-star/myflashcard/raw/main/myflashcardApp1-walkthrough.gif" width=200><br>
 
